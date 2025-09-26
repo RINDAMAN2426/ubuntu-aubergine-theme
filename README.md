@@ -1,16 +1,15 @@
-# ubuntu-aubergine-theme README
+# Ubuntu Aubergine Theme for Cursor/VSCode
 
-## Working with Markdown
+A dark theme inspired by Ubuntu's iconic aubergine and orange palette.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
+- Ubuntu Human color scheme for UI
+- Syntax highlighting tuned with orange, aubergine, and complementary tones
+- Consistent look across editor, panels, inputs, and quick pick menus
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshot
+![Ubuntu Aubergine Theme Screenshot](./images/screenshot.png)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Installation
+1. Search for **Ubuntu Aubergine Theme** in the Cursor/VSCode Marketplace.
+2. Install and activate via `Preferences: Color Theme`.

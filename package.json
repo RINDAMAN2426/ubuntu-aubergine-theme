@@ -10,6 +10,11 @@
   "engines": {
     "vscode": "^1.70.0"
   },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#77216F",
+    "theme": "dark"
+  },
   "categories": ["Themes"],
   "contributes": {
     "themes": [
