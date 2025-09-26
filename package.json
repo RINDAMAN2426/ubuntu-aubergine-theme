@@ -1,0 +1,20 @@
+{
+  "name": "ubuntu-aubergine-theme",
+  "displayName": "Ubuntu Aubergine Theme",
+  "description": "A Cursor/VSCode theme inspired by Ubuntu's aubergine and orange palette",
+  "version": "0.0.1",
+  "publisher": "RINDAMAN2426",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ubuntu Aubergine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ubuntu-aubergine-color-theme.json"
+      }
+    ]
+  }
+}
