@@ -4,6 +4,9 @@
   "description": "A Cursor/VSCode theme inspired by Ubuntu's aubergine and orange palette",
   "version": "0.0.1",
   "publisher": "RINDAMAN2426",
+  "repository": {
+    "url": "https://github.com/RINDAMAN2426/ubuntu-aubergine-theme"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
